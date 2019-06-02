@@ -6,7 +6,6 @@ body{
 
 /*Header*/
 #nav-bar{
-	height: 90px;
 	background-color: red;
 	border-radius: 0;
 	border: 0;
@@ -19,10 +18,9 @@ body{
 }
 
 #nv-list a {
-	margin: -8px 0px 9px 0px;
     text-align: center;
     opacity: .7;
-    background-color: #f2f2f2;
+    background-color:  red #f2f2f2;
     color: black;
 }
 #nv-list a:hover {
